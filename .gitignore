@@ -1,0 +1,5 @@
+### Ignore images
+img/
+
+### Ignore files for downloads
+resources/
